@@ -1,2 +1,3 @@
 # Basic-lvl.-Practice-Project
 Basic level BA courses (BelHard), where issues related to the basic set of knowledge and skills that are necessary to work as a Junior Business Analyst were considered and worked out.
+The course included: SDLC, requirement types, analysis of business requirements and V&S, business processes (work with BPMN, EPC), US/UC, UC diagrams, methods and possibilities of prototyping with writing a Vision and Scope document and presentation of a service prototype. The mentor acted as a customer. On the basis of working with him, a project of a service for joint family trips was created.
